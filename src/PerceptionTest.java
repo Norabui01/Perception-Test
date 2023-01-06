@@ -218,8 +218,8 @@ public class PerceptionTest {
         }
 
         String terminate_prompt = "<html><h3>Hi! The game is end! Thank you for playing!<br>" +
-                                    "We hope you enjoy it and have a nice day!.</h3>" +
-                                    "P/s: Also, we think that our game is definitely worth the full 160 points.<br>" +
+                                    "Hope you enjoy it and have a nice day!.</h3>" +
+                                    "P/s: Also, I think that this game is definitely worth the full 160 points.<br>" +
                                     "Please click OK to out.";
 
         JOptionPane.showMessageDialog(null, terminate_prompt,

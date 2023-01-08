@@ -39,7 +39,7 @@ a whole night to design my own set of 25 cards of 5 childhood cartoon characters
 + Once user picked a test, the program will generate a random card and let user guess:
   
 
-<img src="https://user-images.githubusercontent.com/101363199/211199986-350cf91c-b00b-4aee-a6a9-015ccad5d8ca.png" width="430" height="260">   <img src="https://user-images.githubusercontent.com/101363199/211199998-626b5d25-86ff-44a9-ae42-92feef050776.png" width="430" height="260">
+<img src="https://user-images.githubusercontent.com/101363199/211199986-350cf91c-b00b-4aee-a6a9-015ccad5d8ca.png" width="380" height="200">   <img src="https://user-images.githubusercontent.com/101363199/211199998-626b5d25-86ff-44a9-ae42-92feef050776.png" width="380" height="200">
   
   
 + Each test contains standard 5 trials(means guessing 5 cards), each time user guess right, the score increase one. User can quit after receive score or can keep have another 5 trials if wants to:

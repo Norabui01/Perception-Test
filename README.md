@@ -1,6 +1,6 @@
 # Introduction to my Perception Test
 
-<html><h3>This is one of my Java assignments in my first Java class. I like this one a lot because this is the first time I 
+<html><h3>This is one of my Java assignments. I like this one a lot because this is the first time I 
  changed from console to pop-up window(a bit of GUI) and used a tiny bit of HTML.</h3>
   
 Perception Test simply is just a guessing game. This program uses a standard Zener Deck. "Zener cards are cards used to conduct 

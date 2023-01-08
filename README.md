@@ -5,7 +5,7 @@
   
 Perception Test simply is just a guessing game. This program uses a standard Zener Deck. "Zener cards are cards used to conduct 
 experiments for extra sensory perception (ESP) or clairvoyance. These were heavily used in the 60’s with results published in 
-several papers written to support the existence of ESP." It's simply an experiment to see if you can percept right or wrong what's on the card. <^-^>!
+several papers written to support the existence of ESP." It's simply an experiment to see if you can perceive right or wrong what's on the card. <^-^>!
   
 
  <img src="https://user-images.githubusercontent.com/101363199/211198387-9a068c05-7036-4d34-abc4-40a67ddac6fa.png" width="400" height="80">
@@ -29,7 +29,7 @@ a whole night to design my own set of 25 cards of 5 childhood cartoon characters
   
 
 
-+ There are total three tests that user can pick one: Character test(percept characters), Activity test(percept activities) or Both test(percept both).
++ There are total three tests that user can pick one: Character test(perceive characters), Activity test(perceive activities) or Both test(perceive both).
   User also have option to quit:
   
   

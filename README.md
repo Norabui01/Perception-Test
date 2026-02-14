@@ -1,7 +1,6 @@
 # Introduction to my Perception Test
 
-<html><h3>This is one of my Java assignments. I like this one a lot because this is the first time I 
- changed from console to pop-up window(a bit of GUI) and used a tiny bit of HTML.</h3>
+<html><h3>This is one of my Java assignments.</h3>
   
 Perception Test simply is just a guessing game. This program uses a standard Zener Deck. "Zener cards are cards used to conduct 
 experiments for extra sensory perception (ESP) or clairvoyance. These were heavily used in the 60’s with results published in 
